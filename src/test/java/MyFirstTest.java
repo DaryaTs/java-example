@@ -2,6 +2,8 @@ from selenium import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
+import static org.openqa.selenium.support.ui.ExpectedConditions.titleIs;
+
 public class MyFirstTest {
 
     private WebDriver driver;
