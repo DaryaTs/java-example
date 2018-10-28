@@ -1,3 +1,6 @@
+/* непонятно, что значит
+Error:(1, 1) java: class, interface, or enum expected */
+
 from selenium import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
